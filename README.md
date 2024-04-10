@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @balajics018
-- 👀 I’m interested in ...python development
-- 🌱 I’m currently learning ...Bsc.computer Science Final year
-- 💞️ I’m looking to collaborate on ...learning python
+- 👀 I’m interested in ... python development
+- 🌱 I’m recently Graduated ...Bsc.computer Science
+- 💞️ I’m looking to collaborate on ...learning python,web development
 - 📫 How to reach me ...balajics018@gmail.com
 
 <!---
